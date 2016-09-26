@@ -1,0 +1,9 @@
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\bin\Debug\NHOSettingCreator.exe.config
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\bin\Debug\NHOSettingCreator.exe
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\bin\Debug\NHOSettingCreator.pdb
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\obj\Debug\NHOSettingCreator.csprojResolveAssemblyReference.cache
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\obj\Debug\NHOSettingCreator.Form1.resources
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\obj\Debug\NHOSettingCreator.Properties.Resources.resources
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\obj\Debug\NHOSettingCreator.csproj.GenerateResource.Cache
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\obj\Debug\NHOSettingCreator.exe
+C:\Users\nori\Documents\program\vs2015\NHOSettingCreator\NHOSettingCreator\obj\Debug\NHOSettingCreator.pdb
